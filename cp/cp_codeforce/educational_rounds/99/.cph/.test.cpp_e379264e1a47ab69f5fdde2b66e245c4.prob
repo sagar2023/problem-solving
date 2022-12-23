@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\diff platform\\cp_codeforce\\educational_rounds\\99\\test.cpp","tests":[{"id":1650940793114,"input":"2\n4 32\n7 1 2 4 \n6 20\n9 1 2 17 4 1","output":"0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\educational_rounds\\99\\test.cpp","group":"local","local":true}

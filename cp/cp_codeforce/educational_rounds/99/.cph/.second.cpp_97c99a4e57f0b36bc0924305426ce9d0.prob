@@ -1,0 +1,1 @@
+{"name":"Local: second","url":"e:\\diff platform\\cp_codeforce\\educational_rounds\\99\\second.cpp","tests":[{"id":1650888175309,"input":"5\n1\n2\n3\n4\n5","output":"1\n3\n2\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\educational_rounds\\99\\second.cpp","group":"local","local":true}

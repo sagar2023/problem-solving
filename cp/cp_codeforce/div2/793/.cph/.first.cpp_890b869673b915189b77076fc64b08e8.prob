@@ -1,0 +1,1 @@
+{"name":"Local: first","url":"e:\\diff platform\\cp_codeforce\\div2\\793\\first.cpp","tests":[{"id":1653230442872,"input":"3\n3\naba\n8\nacaaaaca\n5\nddddd","output":"1\n4\n\n5"},{"id":1653265057961,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\div2\\793\\first.cpp","group":"local","local":true}

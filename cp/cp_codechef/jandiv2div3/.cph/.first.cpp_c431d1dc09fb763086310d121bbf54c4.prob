@@ -1,0 +1,1 @@
+{"name":"Local: first","url":"e:\\diff platform\\cp_codechef\\jandiv2div3\\first.cpp","tests":[{"id":1642040449521,"input":"3\n3 6\n5 10\n8 7\n99 1\n55 55\n33 51\n54 146\n5436 627\n1527 5421","output":"15\n110\n6948"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codechef\\jandiv2div3\\first.cpp","group":"local","local":true}

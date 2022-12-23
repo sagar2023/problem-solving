@@ -1,0 +1,1 @@
+{"name":"Local: evenodd","url":"e:\\diff platform\\cp_codeforce\\soj\\ratingless1300div2a\\evenodd.cpp","tests":[{"id":1641488430229,"input":"10 3","output":"5"},{"id":1641488448784,"input":"7 7","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\soj\\ratingless1300div2a\\evenodd.cpp","group":"local","local":true}

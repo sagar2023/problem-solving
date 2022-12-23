@@ -1,0 +1,1 @@
+{"name":"Local: third","url":"e:\\diff platform\\cp_codechef\\startermarch\\third.cpp","tests":[{"id":1647442746403,"input":"3\n4\ndbca\n3\nccc\n3\nbza","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codechef\\startermarch\\third.cpp","group":"local","local":true}

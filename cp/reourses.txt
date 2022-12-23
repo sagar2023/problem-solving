@@ -1,0 +1,8 @@
+cp algorithm : https://cp-algorithms.com/
+Junior Training Sheet: https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839
+https://a2oj.com/
+
+https://cses.fi/problemset/
+striver cp list
+
+https://a2oj.com/ladders

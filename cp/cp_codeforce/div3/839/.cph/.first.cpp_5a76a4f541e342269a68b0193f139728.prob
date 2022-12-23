@@ -1,0 +1,1 @@
+{"name":"Local: first","url":"e:\\interview peparations\\problem solving\\cp\\cp_codeforce\\div3\\839\\first.cpp","tests":[{"id":1671416673560,"input":"4\n4+2\n0+0\n3+7\n8+9","output":"6\n0\n10\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\interview peparations\\problem solving\\cp\\cp_codeforce\\div3\\839\\first.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: third","url":"e:\\diff platform\\cp_codeforce\\educational_rounds\\110\\third.cpp","tests":[{"id":1653101891159,"input":"3\n0?10\n???\n?10??1100","output":"8\n6\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\educational_rounds\\110\\third.cpp","group":"local","local":true}

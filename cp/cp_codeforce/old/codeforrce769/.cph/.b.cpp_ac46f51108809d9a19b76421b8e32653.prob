@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"e:\\diff platform\\cp_codeforce\\codeforrce769\\b.cpp","tests":[{"id":1643556425067,"input":"4\n1\n1\n2\n10\n2\n01\n4\n1010","output":"YES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\codeforrce769\\b.cpp","group":"local","local":true}

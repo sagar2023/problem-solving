@@ -1,0 +1,1 @@
+{"name":"Local: first","url":"e:\\diff platform\\cp_codeforce\\div2\\codetoAn\\first.cpp","tests":[{"id":1648133537268,"input":"3\n3\n5 2 7\n5\n1 4 2 2 3\n1\n2","output":"2 3\n1 2\n1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\div2\\codetoAn\\first.cpp","group":"local","local":true}

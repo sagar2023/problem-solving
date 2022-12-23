@@ -1,0 +1,1 @@
+{"name":"Local: second","url":"e:\\diff platform\\cp_codeforce\\div2\\802\\second.cpp","tests":[{"id":1655640970409,"input":"1\n2\n99\n\n","output":"32\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\diff platform\\cp_codeforce\\div2\\802\\second.cpp","group":"local","local":true}
